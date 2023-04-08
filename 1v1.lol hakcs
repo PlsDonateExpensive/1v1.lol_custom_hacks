@@ -350,7 +350,7 @@ el.innerHTML = `<style>
 
 </style>
 <div class="dialog">${shouldShowAd ? `<big>Loading ad...</big>` : `<div class="close" onclick="this.parentNode.style.display='none';"></div>
-	<big>⚙️ ESP & Wireframe 🔫</big>
+	<big>⚙️ ESP & Wireframe 👑</big>
     <hr>
 	<br>
     <b>Instructions</b>
@@ -366,12 +366,12 @@ el.innerHTML = `<style>
     <br>
     <hr>
 	<br>
-	By Zertalious 📜
+	
     <br>
     <br>
-    Ads bypassed by Tyyuiss#3470 😎
+    
     <br>
-    UI by Tyyuiss#3470 🖥️
+   
 	<br>
 	<br>
 	<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 5px;">
