@@ -3,7 +3,6 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.6
 // @description  Let's you see players behind walls. Comes with a wireframe view mode too. Press V and N to toggle them.
-// @author       Tyyuiss#3470 | Made by Zertalious
 // @match        *://1v1.lol/*
 // @match        *://play1v1.com/*
 // @match        *://boxfight.io/*
@@ -371,7 +370,7 @@ el.innerHTML = `<style>
 		<div class="btn" onclick="window.open('https://www.instagram.com/zertalious/', '_blank')">Instagram</div>
 		<div class="btn" onclick="window.open('https://twitter.com/Zertalious', '_blank')">Twitter</div>
 		<div class="btn" onclick="window.open('https://greasyfork.org/en/users/662330-zertalious', '_blank')">More Scripts</div>
-        <div class="btn" onclick="window.open('https://discord.gg/HX7KCXVBkE', '_blank')">Ads Bypassed Discord</div>
+        <div class="btn" onclick="window.open('https://discord.gg/zayaxm', '_blank')">Ads Bypassed Discord</div>
         <div class="btn" onclick="window.open('https://greasyfork.org/en/scripts/463398-1v1-lol-aimbot-esp-wireframe-view-ads-bypassed', '_blank')">Update Script</div>
 	</div>
 	` }
