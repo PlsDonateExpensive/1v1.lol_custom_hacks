@@ -362,15 +362,7 @@ el.innerHTML = `<style>
 	[N] to toggle wireframe
 	<br>
 	[H] to show/hide help
-    <br>
-    <br>
-    <hr>
-	<br>
-	
-    <br>
-    <br>
-    
-    <br>
+
    
 	<br>
 	<br>
