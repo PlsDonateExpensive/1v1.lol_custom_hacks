@@ -17,9 +17,9 @@
 // @license MIT
 // ==/UserScript==
 
-const searchSize = 300;
+const searchSize = 200;
 const threshold = 4.5;
-const aimbotSpeed = 0.15;
+const aimbotSpeed = 0.5;
 
 let aimbotEnabled = false;
 let espEnabled = false;
