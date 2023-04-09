@@ -273,7 +273,7 @@ el.innerHTML = `<style>
         width: 100%;
         height: 20%;
         transform: translate(-50%, -50%) rotate(-45deg);
-        background: #fff;
+        background: #00f;
         border-radius: 3px;
     }
 
@@ -354,11 +354,11 @@ el.innerHTML = `<style>
 	<br>
     <b>Instructions</b>
     <br>
-	[T] to toggle aimbot
+	[T] to toggle aimbot (is a bit laggy)
 	<br>
-	[M] to toggle ESP
+	[M] to toggle ESP (not line esp does work throgh walls)
 	<br>
-	[N] to toggle wireframe
+	[N] to toggle wireframe (wireframe lag reduce)
 	<br>
 	[H] to show/hide help
 
@@ -367,9 +367,9 @@ el.innerHTML = `<style>
 	<br>
 	<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 5px;">
 		<div class="btn" onclick="window.open('https://discord.gg/zayaxm, '_blank')">Discord</div>
-		<div class="btn" onclick="window.open('https://www.instagram.com/zertalious/', '_blank')">Instagram</div>
+		<div class="btn" onclick="window.open('https://discord.gg/JjnXBhR2', '_blank')">cheap scripts</div>
 		<div class="btn" onclick="window.open('https://twitter.com/Zertalious', '_blank')">Twitter</div>
-		<div class="btn" onclick="window.open('https://greasyfork.org/en/users/662330-zertalious', '_blank')">More Scripts</div>
+		<div class="btn" onclick="window.open('https://discord.gg/xhdDfwS8', '_blank')">My friends zay discord</div>
         <div class="btn" onclick="window.open('https://discord.gg/zayaxm', '_blank')">Our discord</div>
         <div class="btn" onclick="window.open('https://github.com/PlsDonateExpensive/1v1.lol_custom_hacks/edit/main/1v1.lol%20hakcs', '_blank')">Click If script needs update</div>
 	</div>
