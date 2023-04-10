@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         1v1.LOL Aimbot, ESP & Wireframe View (ADS BYPASSED)
+// @name         KingHack 👑
 // @namespace    http://tampermonkey.net/
 // @version      0.6
 // @description  Let's you see players behind walls. Comes with a wireframe view mode too. Press V and N to toggle them.
@@ -242,7 +242,7 @@ el.innerHTML = `<style>
         top: 50%;
         padding: 20px;
         background: #ff1100;
-        color: #fff;
+        color: #ff0080;
         transform: translate(-50%, -50%);
         text-align: center;
         z-index: 999999;
