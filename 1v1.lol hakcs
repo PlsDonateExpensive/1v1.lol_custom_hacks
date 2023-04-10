@@ -241,7 +241,7 @@ el.innerHTML = `<style>
         left: 50%;
         top: 50%;
         padding: 20px;
-        background: #ffffff;
+        background: #fff;
         color: #ff0080;
         transform: translate(-50%, -50%);
         text-align: center;
@@ -257,10 +257,10 @@ el.innerHTML = `<style>
     .close {
         position: absolute;
         right: 5px;
-        top: 5px;
-        width: 20px;
-        height: 20px;
-        opacity: 0.5;
+        top: 6px;
+        width: 18px;
+        height: 35px;
+        opacity: 1.5;
         cursor: pointer;
     }
 
@@ -349,7 +349,7 @@ el.innerHTML = `<style>
 
 </style>
 <div class="dialog">${shouldShowAd ? `<big>Loading ad...</big>` : `<div class="close" onclick="this.parentNode.style.display='none';"></div>
-	<big>⚙️ ESP & Wireframe 👑</big>
+	<big>🕺KING HACKS👑</big>
     <hr>
 	<br>
     <b>Instructions</b>
@@ -368,7 +368,7 @@ el.innerHTML = `<style>
 	<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 5px;">
 		<div class="btn" onclick="window.open('https://discord.gg/zayaxm, '_blank')">Discord</div>
 		<div class="btn" onclick="window.open('https://discord.gg/JjnXBhR2', '_blank')">cheap scripts</div>
-		<div class="btn" onclick="window.open('https://twitter.com/Zertalious', '_blank')">Twitter</div>
+		<div class="btn" onclick="window.open('https://www.youtube.com/channel/UCY6DkuoDruTVDJ9aHXlFypQ', '_blank')">YouTube</div>
 		<div class="btn" onclick="window.open('https://discord.gg/xhdDfwS8', '_blank')">My friends zay discord</div>
         <div class="btn" onclick="window.open('https://discord.gg/zayaxm', '_blank')">Our discord</div>
         <div class="btn" onclick="window.open('https://github.com/PlsDonateExpensive/1v1.lol_custom_hacks/edit/main/1v1.lol%20hakcs', '_blank')">Click If script needs update</div>
