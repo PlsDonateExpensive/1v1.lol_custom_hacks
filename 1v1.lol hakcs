@@ -10,8 +10,7 @@
 // @match        *://aim.lol/*
 // @match        *://justaim.lol/*
 // @match        *://justedit.lol*
-// @icon         https://www.google.com/s2/favicons?domain=1v1.lol
-// @grant        none
+// @icon         https://i.ytimg.com/vi/uc2ykGvGZc8/maxresdefault.jpg// @grant        none
 // @run-at       document-start
 // @antifeature  ads
 // @license MIT
